@@ -1,0 +1,14 @@
+Comapny Name Coforge
+Time : 12:00 PM 
+Date : 15-Oct-2023
+Q1. Introduce Your self ?
+Q2. Currently which project you are working ?
+Q3. How to communicate microservices ?
+Q4. How many microservices you are usnig in your project ?
+Q5. What is class Loader ?
+Q6. What is fail-fast and fail-safe ?
+Q7. Static variable in store in which memory ?
+Q8  Which server you are using to depoly in your project ?
+Q9. What is version of you server ?
+Q10. Which version you are using in spring , hibernate ?
+C:\Users\ashis\eclipse-workspace\microservices\Java\src\Hello.txt
